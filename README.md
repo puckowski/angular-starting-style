@@ -1,6 +1,8 @@
 # StartingStyle
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+This project is a proof of solution for https://github.com/angular/angular/pull/53943
+
+node_modules is not part of .gitignore and thus the repository may take a while to clone. A custom build of @angular is used in this repository which includes PR 53943.
 
 ## Development server
 
