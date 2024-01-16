@@ -1,0 +1,14 @@
+div {
+    background-color: yellow;
+    transition: background-color 3s;
+}
+
+div.showing {
+    background-color: skyblue;
+}
+
+@starting-style {
+    div.showing {
+        background-color: red;
+    }
+}
